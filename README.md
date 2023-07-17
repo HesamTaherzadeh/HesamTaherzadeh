@@ -1,5 +1,6 @@
-![htaherzadegan-high-resolution-color-logo](https://github.com/HesamTaherzadeh/Hesam-Taherzadeh/assets/89359094/df9d1d88-a874-4617-8b08-8d185aed7d4b)
-<table align="center">
+
+<table ![htaherzadegan-low-resolution-logo-white-on-transparent-background](https://github.com/HesamTaherzadeh/HesamTaherzadeh/assets/89359094/9e2f1adc-bb56-48c5-9299-27a9f0862835)
+align="center">
   <tr>
     <td>01110100</td>
     <td>01110010</td>
