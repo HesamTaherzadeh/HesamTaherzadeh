@@ -1,5 +1,6 @@
 
-<table ![htaherzadegan-low-resolution-logo-white-on-transparent-background](https://github.com/HesamTaherzadeh/HesamTaherzadeh/assets/89359094/9e2f1adc-bb56-48c5-9299-27a9f0862835)
+
+<table
 align="center">
   <tr>
     <td>01110100</td>
